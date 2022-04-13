@@ -1,0 +1,3 @@
+-- Create User table with id, name, email, and age, and insert 3 rows
+-- Make id the primary key and auto increment
+-- Make name and email unique
