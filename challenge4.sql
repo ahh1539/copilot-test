@@ -8,4 +8,4 @@
 
 
 -- Next create a table called posts with id, title, body, 
--- and user_id where user_id is a foreign key to the users table
+-- and user_id where user_id is a foreign key to the user table
